@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   let ENV = {
-    modulePrefix: 'accessibility-tweaks',
+    modulePrefix: 'accessibility-base',
     environment,
     rootURL: '/',
     locationType: 'history',

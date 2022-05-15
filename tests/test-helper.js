@@ -1,5 +1,5 @@
-import Application from 'accessibility-tweaks/app';
-import config from 'accessibility-tweaks/config/environment';
+import Application from 'accessibility-base/app';
+import config from 'accessibility-base/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';

@@ -1,6 +1,6 @@
-# accessibility-tweaks
+# accessibility-base
 
-Some tweaks to make to your new Ember app to make it WCAG conformant:
+Some base to make to your new Ember app to make it WCAG conformant:
 
 1. add `lang` attribute in `app/index.html` (you can also do this via `ember new my-app --lang en` where `en` is the spoken language code for your application)
 2. add `user-scalable=yes` to the `meta` tag with the `viewport` attribute.
@@ -18,7 +18,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd accessibility-tweaks`
+* `cd accessibility-base`
 * `npm install`
 
 ## Running / Development

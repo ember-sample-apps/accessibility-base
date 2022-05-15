@@ -1,8 +1,8 @@
 {
-  "name": "accessibility-tweaks",
+  "name": "accessibility-base",
   "version": "0.0.0",
   "private": true,
-  "description": "WCAG conformant tweaks to a default Ember app",
+  "description": "WCAG conformant base to a default Ember app",
   "repository": "https://github.com/ember-sample-apps/accessibility-base",
   "license": "MIT",
   "author": "Melanie Sumner <melaniersumner@gmail.com>",
