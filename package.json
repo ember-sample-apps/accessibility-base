@@ -2,10 +2,10 @@
   "name": "accessibility-tweaks",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for accessibility-tweaks goes here",
-  "repository": "",
+  "description": "WCAG conformant tweaks to a default Ember app",
+  "repository": "https://github.com/ember-sample-apps/accessibility-base",
   "license": "MIT",
-  "author": "",
+  "author": "Melanie Sumner <melaniersumner@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -29,6 +29,7 @@
     "@glimmer/tracking": "^1.0.4",
     "babel-eslint": "^10.1.0",
     "broccoli-asset-rev": "^3.0.0",
+    "ember-a11y-refocus": "^2.3.0",
     "ember-auto-import": "^2.4.1",
     "ember-cli": "~4.3.0",
     "ember-cli-app-version": "^5.0.0",
