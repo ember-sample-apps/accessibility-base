@@ -1,9 +1,9 @@
 # accessibility-base
 
-Some base to make to your new Ember app to make it WCAG conformant:
+Some small changes to make to your new Ember app to make it WCAG conformant:
 
-1. add `lang` attribute in `app/index.html` (you can also do this via `ember new my-app --lang en` where `en` is the spoken language code for your application)
-2. add `user-scalable=yes` to the `meta` tag with the `viewport` attribute.
+1. adds `lang` attribute in `app/index.html` (you can also do this via `ember new my-app --lang en` where `en` is the spoken language code for your application)
+2. adds `user-scalable=yes` to the `meta` tag with the `viewport` attribute.
 3. adds `ember-a11y-refocus` addon for accessible routing
 4. adds a `main` element with `id="main"` around the `{{outlet}}` in application.hbs
 ## Prerequisites
